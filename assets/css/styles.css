@@ -1578,3 +1578,7 @@ select {
         width: 560px;
     }
 }
+
+.landing-page .header a {
+    color: black;
+}
